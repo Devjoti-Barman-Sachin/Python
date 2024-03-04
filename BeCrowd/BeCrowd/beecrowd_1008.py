@@ -1,0 +1,6 @@
+a = int(input()) 
+b = int(input()) 
+c = float(input())
+salary = (b*c)
+print(f'NUMBER = {a}')
+print(f'SALARY = U$ {salary:.2f}')
